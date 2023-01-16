@@ -766,7 +766,7 @@ bool ICACHE_FLASH_ATTR EvseWiFiConfig::getEvseRseActive(uint8_t evseId) {
 }
 uint8_t ICACHE_FLASH_ATTR EvseWiFiConfig::getEvseRsePin(uint8_t evseId) {
     #ifdef ESP32_DEVKIT
-        return 34;
+        return 35;
     #else
         return 2;
     #endif

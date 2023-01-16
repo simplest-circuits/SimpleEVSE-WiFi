@@ -9,7 +9,7 @@ MISO           D6               19     19
 MOSI           D7               23     23
 getRfidPin/CS  D8                5      5
 CpIntPin       --                4      4
-RsePin         --                2     34
+RsePin         --                2     35
 OLED_CS        --               12     25
 OLED_DC        --               13     26
 OLED_RESET     --               33     33
